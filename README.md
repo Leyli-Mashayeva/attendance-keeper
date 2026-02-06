@@ -3,6 +3,8 @@
 A desktop GUI application for managing student attendance records built with Python and Tkinter.
 
 ## 📸 Screenshot
+Screenshot1.png
+Screenshot2.png
 
 ## ✨ Features
 - 📂 Import student lists from Excel files (.xlsx)
